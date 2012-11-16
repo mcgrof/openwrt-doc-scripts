@@ -97,7 +97,7 @@ def main():
 
 	print 'This page documents all packages installed by default on the AA-12.09-beta2 release.'
 	print 'This page and each package documentation was automatically generated with a set of'
-	print 'scripts as part of the [[https://github.com/mcgrof/openwrt-doc-scripts|openwrt-doc-scripts]] project.'
+	print 'scripts as part of the [[doc-scripts|openwrt-doc-scripts]] project.'
 	print ''
 
 	# What we ideally also want:
